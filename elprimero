@@ -1,0 +1,3 @@
+git remote add origin <C:\Users\alvar\OneDrive\Documents\PROGRAMAS\stable-diffusion-webui-master\stable-diffusion-webui-master>
+git branch -M main
+git push -u origin main
